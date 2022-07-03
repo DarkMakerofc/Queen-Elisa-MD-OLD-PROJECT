@@ -39,7 +39,7 @@ Queen Elisa is simple Multi divece whatsapp bot in srilanka Made By DarkMaker Ba
 + [`𝙲𝙾𝙽𝚃𝙰𝙲𝚃 𝙾𝚆𝙽𝙴𝚁`](https://wa.me/94715166712?text=From_Queen_Elisa_Md_Repo💃)
 
 #### ```TOTAL REPO VIEWS 🧚```
-![Visitor Count](https://profile-counter.glitch.me/MR-NIMA-X/count.svg)
+![Visitor Count](https://profile-counter.glitch.me/DarkMakerofc/count.svg)
 # 
 # 
 # 
