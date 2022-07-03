@@ -23,6 +23,7 @@
   "dependencies": {
     "@adiwajshing/baileys": "^4.0.1",
     "@adiwajshing/keyed-db": "^0.2.4",
+    "@bochilteam/scraper": "^2.0.0",
     "awesome-phonenumber": "^2.64.0",
     "axios": "^0.24.0",
     "chalk": "^4.1.2",
