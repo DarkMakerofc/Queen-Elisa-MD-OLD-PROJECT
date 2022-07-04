@@ -18,7 +18,12 @@ Queen Elisa is simple Multi divece whatsapp bot in srilanka Made By DarkMaker Ba
 4. Add app name and deploy 
 5. Watch your heroku log 
 
-##### [ᴡᴀᴛᴄʜ ᴠɪᴅᴇᴏ ʜᴏᴡ ʜᴏᴡ ᴛᴏ ᴍᴀᴋᴇ ʙᴏᴛ]()
+##### [ᴡᴀᴛᴄʜ ᴠɪᴅᴇᴏ ʜᴏᴡ ʜᴏᴡ ᴛᴏ ᴍᴀᴋᴇ ʙᴏᴛ](https://youtu.be/wXovNeqOHSo)
+
+
+<div align="left">
+  <img src="https://telegra.ph/file/30f0019baa0dc2715c62d.jpg" width="180" height="100ll">
+  
 # 
 ### FORK QUEEN ELISA REPO
  <p align="left">
