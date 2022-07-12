@@ -8,7 +8,7 @@
  ▒█▒█░   ░█░
  ░▀▄▀░   ▄█▄
  
- 𝙌𝙪𝙚𝙚𝙣 𝙀𝙡𝙞𝙨𝙖 𝙈𝘿 𝘽𝙮 𝘿𝙖𝙧𝙠 𝙈𝙖𝙠𝙚𝙧 
+ KDDR-FAKE 𝙈𝘿 𝘽𝙮 𝘿inexhaustible Randinu 
  𝙋𝙪𝙗𝙡𝙞𝙘 𝘿𝙖𝙩𝙚 - 2022 / 07 / 03 
  𝙏𝙝𝙖𝙣𝙠𝙨 𝙏𝙤 𝙎𝙘𝙧𝙞𝙥𝙩 𝙁𝙧𝙤 𝙂𝙤𝙟𝙤 𝙎𝙖𝙩𝙤𝙧𝙪
  
@@ -32,18 +32,19 @@ global.APIKeys = {
 }
 
 //other
-global.owner = ['94715166712'] // Owner number , (අයිතිකරුගේ නම්බර් එක )
-global.pemilik = ['94715166712'] //Change  it , ඔබට කැමති නම් වෙනස් කරන්න
-global.premium = ['94715166712'] //Change it ඔබට කැමතිනම් වෙනස් කරන්න 
-global.pengguna = 'Dark Maker' // Your name ඔබේ නම 
-global.botnma = '💃 𝐐𝐮𝐞𝐞𝐧 𝐄𝐥𝐢𝐬𝐚 𝐁𝐨𝐭 💃' // Your bot name , ඔබගෙ බොට්ගේ නම 
-global.ownernma = '𝓓𝓪𝓻𝓴 𝓜𝓪𝓴𝓮𝓻' //ownernama,ownername
-global.packname = 'Queen Elisa Sticker' // Sticker package name 
-global.author = 'Dark Maker' // Sticker Autor name 
+global.owner = ['94703199484'] // Owner number , (අයිතිකරුගේ නම්බර් එක )
+global.pemilik = ['94703199484'] //Change  it , ඔබට කැමති නම් වෙනස් කරන්න
+global.premium = ['94703199484'] //Change it ඔබට කැමතිනම් වෙනස් කරන්න 
+global.pengguna = 'Dineth Randinu'// Your name ඔබේ නම 
+global.botnma = '💃 *_KDDR-FAKE_*𝐁𝐨𝐭 💃' // Your bot name , ඔබගෙ බොට්ගේ නම 
+global.ownernma = '𝓓ineth ' //ownernama,ownername
+global.packname = 'KDDR-FAKE Sticker' // Sticker package name 
+global.author = 'Dineth Randinu// Sticker Autor name 
 global.sessionName = 'session'
 global.prefa = ['#','!','/',''] 
 global.sp = '🔵'
-// Alive massage , ඔබේ බොගේ alive massage  එක මෙහි ඇති ` ` මෙම ලකුනු ඇතුලේ ඔබට අවශ්‍ය ඔනිම දෙයක් Type කරන්න.💃
+// Alive massage , ඔබේ බොගේ alive massage  එක මෙහි ඇති `Hi 🤘 I am *KDDR-FAKE BOT* I am alive now are you want menu of my you must send .menu or .list .....OK 👍  my friend I think this is enough  ♡ ㅤ         ❍     ㅤ       ⎙ㅤ          ⌲ 
+ˡᶦᵏᵉ         ᶜᵒᵐᵐᵉⁿᵗ         ˢᵃᵛᵉ          ˢʰᵃʳᵉ··°··|ـــ٨ـہہـ♡ـ٨ـہـــــ٨ـہہـ♡ـ٨ـہــــ|··°····°··|ـــ٨ـہہـ♡ـ٨ـہـــــ٨ـہہـ♡ـ٨ـہــــ|··°·ـ٨ـہــــ|··°····°··|ـــ٨ـہہـ♡ـ٨ـہـــــ٨ـہہـ♡ـ٨ـہـــ·ۦོ͢𐦐⅀↬*ۦོ͢⇣͢⇣͢.👑꙲ⷯⷨ𝕄𝕀𝕊𝕋𝕀ℂ𝕆👑꙲ⷯⷨ.⇣͢ۦོ͢𐦐ᭀۦོ͢ۦོ͢*⇣͢↬𝐕𝐥𝐑𝐔𝐒ۦོ͢𐦐⅀↬*ۦོ͢⇣͢⇣͢.👑꙲ⷯⷨ𝕄𝕀𝕊𝕋𝕀ℂ𝕆👑꙲ⷯⷨ.⇣͢ۦོ͢𐦐ᭀۦོ͢ۦོ͢*⇣͢↬𝐕𝐥𝐑𝐔𝐒ۦོ͢𐦐⅀↬*ۦོ͢⇣͢⇣͢.👑꙲ⷯⷨ𝕄𝕀𝕊𝕋𝕀ℂ𝕆👑꙲ⷯⷨ.⇣͢ۦོ͢𐦐ᭀۦོ͢ۦོ͢*⇣͢↬𝐕𝐥𝐑𝐔𝐒ۦོ͢𐦐⅀↬*ۦོ͢⇣͢⇣͢.👑꙲ⷯⷨ𝕄𝕀𝕊𝕋𝕀ℂ𝕆👑꙲ⷯⷨ.⇣͢ۦོ͢𐦐ᭀۦོ͢ۦོ͢*⇣͢↬𝐕𝐥𝐑𝐔𝐒ۦོ͢𐦐⅀↬*ۦོ͢⇣͢⇣͢.👑꙲ⷯⷨ𝕄𝕀𝕊𝕋𝕀ℂ𝕆👑꙲ⷯⷨ.⇣͢ۦོ͢𐦐ᭀۦོ͢ۦོ͢*⇣͢↬𝐕𝐥𝐑𝐔𝐒ۦོ͢𐦐⅀↬*ۦོ͢⇣͢⇣͢.👑꙲ⷯⷨ𝕄𝕀𝕊𝕋𝕀ℂ𝕆👑꙲ⷯⷨ.⇣͢ۦོ͢𐦐ᭀۦོ͢ۦོ͢*⇣͢↬𝐕𝐥𝐑𝐔𝐒ۦོ͢𐦐⅀↬*ۦོ͢⇣͢⇣͢.👑꙲ⷯⷨ𝕄𝕀𝕊𝕋𝕀ℂ𝕆👑꙲ⷯⷨ.⇣͢ۦོ͢𐦐ᭀۦོ͢ۦོ͢*⇣͢↬𝐕𝐥𝐑𝐔𝐒··°··|ـــ٨ـہہـ♡ـ٨ـہـــــ٨ـہہـ♡ـ٨ـہــــ|··°····°··|ـــ٨ـہہـ♡ـ٨ـہـــــ٨ـہہـ♡ـ٨ـہــــ|··°·ـ٨ـہــــ|··°····°··|ـــ٨ـہہـ♡ـ٨ـہـــــ٨ـہہـ♡ـ٨ـہـــ·` මෙම ලකුනු ඇතුලේ ඔබට අවශ්‍ය ඔනිම දෙයක් Type කරන්න.💃
 global.alivelogo = `https://telegra.ph/file/1a2dee71baa975091620d.jpg`
 global.alive =`Hello i am alive now
 
